@@ -1,7 +1,7 @@
 import { Accrue } from "../baseApi";
 import { ICustomer } from "../types";
 
-const accrue = new Accrue(null);
+const accrue = new Accrue();
 
 const customer : ICustomer = {
     firstname: "Clinton",

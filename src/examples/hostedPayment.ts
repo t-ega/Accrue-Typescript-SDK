@@ -4,7 +4,7 @@ import { HostedPaymentOptions } from "../types";
 
 // Here we have passed in the secret key for the API,
 // you can just set it in the environment variable if you dont want to do this
-const accrue = new Accrue(null, 'CSHRMP-SECK_JhXVwZiBKHM37EdJ');
+const accrue = new Accrue(null, 'CSHRMP-SECK_JhXVwZiBK....');
 
 const withdrawalOptions: HostedPaymentOptions = {
     payment_type: "deposit",

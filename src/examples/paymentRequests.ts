@@ -2,9 +2,7 @@ import { randomUUID } from "crypto";
 import { Accrue } from "../baseApi";
 import { HostedPaymentOptions } from "../types";
 
-// Here we have passed in the secret key for the API,
-// you can just set it in the environment variable if you dont want to do this
-const accrue = new Accrue(null);
+const accrue = new Accrue();
 
 const depositOptions: HostedPaymentOptions = {
     payment_type: "deposit",
