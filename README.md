@@ -46,7 +46,7 @@ async function getAccountDetails() {
 getAccountDetails();
 
 ```
-For more examples see the examples folder
+For more examples see the [examples](https://github.com/t-ega/Accrue-Typescript-SDK/tree/main/src/examples) folder
 
 ## API Reference
 
@@ -93,7 +93,7 @@ interface IAccount {
 
 ```
 
-See the examples section for more usage examples.
+See the [examples](https://github.com/t-ega/Accrue-Typescript-SDK/tree/main/src/examples) section for more usage examples.
 ## Contributing
 
 Contributions are always welcome!
