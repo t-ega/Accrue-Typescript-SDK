@@ -25,7 +25,7 @@ export default class Customer extends EndpointsBase {
             }
         }
         `
-        return await this.postRequest<ICustomerResponse>("createCustomer", query);
+        return await this.postRequest<IGetCustomer>("createCustomer", query);
     }
 
     /**
