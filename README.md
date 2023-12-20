@@ -105,5 +105,5 @@ Please adhere to this project's `code of conduct`.
 
 ## License
 
-This library is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) - see the LICENSE file for details.
+This library is licensed under the [MIT License](https://github.com/t-ega/Accrue-Typescript-SDK/blob/main/LICENSE) - see the LICENSE file for details.
 
