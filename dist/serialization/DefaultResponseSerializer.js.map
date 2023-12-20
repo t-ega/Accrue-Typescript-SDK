@@ -1,0 +1,1 @@
+{"version":3,"file":"DefaultResponseSerializer.js","sourceRoot":"","sources":["../../src/serialization/DefaultResponseSerializer.ts"],"names":[],"mappings":";;;;;;;;;;;AAGA,MAAqB,2BAA2B;IAC/B,WAAW,CAAc,MAAc,EAAE,QAAuB;;YACzE,MAAM,IAAI,GAAG,MAAM,QAAQ,CAAC,IAAI,CAAC,IAAI,CAAC,MAAM,CAAC,CAAC;YAC9C,OAAO,IAAmB,CAAA;QAC9B,CAAC;KAAA;CACJ;AALD,8CAKC"}

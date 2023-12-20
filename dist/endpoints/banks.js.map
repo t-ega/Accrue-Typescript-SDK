@@ -1,0 +1,1 @@
+{"version":3,"file":"banks.js","sourceRoot":"","sources":["../../src/endpoints/banks.ts"],"names":[],"mappings":";;;;;;;;;;;;;;AACA,kDAAmC;AAEnC,MAAqB,KAAM,SAAQ,cAAa;IAC5C;;;;;OAKG;IACU,QAAQ,CAAC,YAAoB;;YACtC,MAAM,KAAK,GAAG;kCACY,YAAY;;;;;UAKpC,CAAA;YAEF,OAAO,MAAM,IAAI,CAAC,WAAW,CAAW,OAAO,EAAE,KAAK,CAAC,CAAC;QAC5D,CAAC;KAAA;CACJ;AAlBD,wBAkBC"}
