@@ -9,17 +9,17 @@ Accrue is a TypeScript library that provides convenient access to the Accrue API
 
 ## Installation
 
-Install my-project with npm
+Install accrue with npm
 
 ```bash
-  npm install accrue
+  npm install accrue-sdk
 ```
     
 ## Usage/Examples
 
 - Initialization
 ```typescript
-import { Accrue } from 'accrue';
+import { Accrue } from 'accrue-sdk';
 
 const accrue = new Accrue({
   // configuration options
